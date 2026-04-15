@@ -3,7 +3,4 @@
 
 <div align="center">
     <img src="https://count.getloli.com/@gh_visit_count?name=gh_visit_count&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" />
-</div>   
-
----
-
+</div>
