@@ -1,4 +1,4 @@
-![tobirama](https://raw.githubusercontent.com/scapy47/scapy47/refs/heads/main/assets/102729.gif)
+<img align="center" src="https://raw.githubusercontent.com/scapy47/scapy47/refs/heads/main/assets/102729.gif" />
 
 
 <div align="center">
