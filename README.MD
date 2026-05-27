@@ -1,7 +1,5 @@
 <div align="center">
-<div align="center"><img src="https://raw.githubusercontent.com/scapy47/scapy47/refs/heads/main/assets/102729.gif" /></div>
+<img src="https://raw.githubusercontent.com/scapy47/scapy47/refs/heads/main/assets/102729.gif" />
 
 
-<div align="center">
-    <img src="https://count.getloli.com/@gh_visit_count?name=gh_visit_count&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" />
-</div>
+<img src="https://count.getloli.com/@gh_visit_count?name=gh_visit_count&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" />
