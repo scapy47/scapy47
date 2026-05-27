@@ -10,3 +10,4 @@
 ![Astro](https://www.shieldcn.dev/badge/-Astro-BC52EE.svg?logo=astro&variant=branded&size=sm) 
 ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) 
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![Kotlin](https://shieldcn.dev/badge/Kotlin-7f52ff.svg?logo=kotlin)
