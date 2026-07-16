@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="image" src="https://raw.githubusercontent.com/dharmx/walls/refs/heads/main/anime/a_cartoon_of_a_woman_lying_on_a_pile_of_books.png" />
+</p>
+
 ## Toolkit
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust-000000.svg?size=default&amp;logo=rust" /><img alt="badge" src="https://shieldcn.dev/badge/Rust-000000.svg?size=default&amp;mode=light&amp;logo=rust" /></picture>
