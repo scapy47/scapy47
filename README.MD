@@ -27,10 +27,17 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Capacitor-000000.svg?logo=capacitor" /><img alt="badge" src="https://shieldcn.dev/badge/Capacitor-000000.svg?mode=light&amp;logo=capacitor" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/PWA-000000.svg?logo=pwa" /><img alt="badge" src="https://shieldcn.dev/badge/PWA-000000.svg?mode=light&amp;logo=pwa" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/WebAssembly-000000.svg?logo=webassembly" /><img alt="badge" src="https://shieldcn.dev/badge/WebAssembly-000000.svg?mode=light&amp;logo=webassembly" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Decker-000000.svg?logo=docker" /><img alt="badge" src="https://shieldcn.dev/badge/Decker-000000.svg?mode=light&amp;logo=docker" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Neovim-000000.svg?logo=neovim" /><img alt="badge" src="https://shieldcn.dev/badge/Neovim-000000.svg?mode=light&amp;logo=neovim" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Nix-000000.svg?logo=nixos" /><img alt="badge" src="https://shieldcn.dev/badge/Nix-000000.svg?mode=light&amp;logo=nixos" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Tmux-000000.svg?logo=tmux" /><img alt="badge" src="https://shieldcn.dev/badge/Tmux-000000.svg?mode=light&amp;logo=tmux" /></picture>
 
 ## Stats
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/chart/github/commits/scapy47.svg?theme=purple&amp;bg=transparent" /><img alt="chart" src="https://shieldcn.dev/chart/github/commits/scapy47.svg?mode=light&amp;theme=purple&amp;bg=transparent" /></picture>
+</p>
+
 ![](https://streak-stats.demolab.com/?user=scapy47&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=scapy47&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
