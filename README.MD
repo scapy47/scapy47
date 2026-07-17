@@ -4,6 +4,8 @@
 
 ## Toolkit
 
+**Languages**
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust-000000.svg?size=default&amp;logo=rust" /><img alt="badge" src="https://shieldcn.dev/badge/Rust-000000.svg?size=default&amp;mode=light&amp;logo=rust" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Typescript-000000.svg?size=default&amp;logo=typescript" /><img alt="badge" src="https://shieldcn.dev/badge/Typescript-000000.svg?size=default&amp;mode=light&amp;logo=typescript" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Javascript-000000.svg?size=default&amp;logo=javascript" /><img alt="badge" src="https://shieldcn.dev/badge/Javascript-000000.svg?size=default&amp;mode=light&amp;logo=javascript" /></picture>
@@ -12,6 +14,22 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Kotlin-000000.svg?size=default&amp;logo=kotlin" /><img alt="badge" src="https://shieldcn.dev/badge/Kotlin-000000.svg?size=default&amp;mode=light&amp;logo=kotlin" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/C-000000.svg?size=default&amp;logo=c" /><img alt="badge" src="https://shieldcn.dev/badge/C-000000.svg?size=default&amp;mode=light&amp;logo=c" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Lua-000000.svg?size=default&amp;logo=lua" /><img alt="badge" src="https://shieldcn.dev/badge/Lua-000000.svg?size=default&amp;mode=light&amp;logo=lua" /></picture>
+
+**Tools**
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Svelte-000000.svg?logo=svelte" /><img alt="badge" src="https://shieldcn.dev/badge/Svelte-000000.svg?mode=light&amp;logo=svelte" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/React-000000.svg?logo=react" /><img alt="badge" src="https://shieldcn.dev/badge/React-000000.svg?mode=light&amp;logo=react" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Preact-000000.svg?logo=preact" /><img alt="badge" src="https://shieldcn.dev/badge/Preact-000000.svg?mode=light&amp;logo=preact" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Solid-000000.svg?logo=solid" /><img alt="badge" src="https://shieldcn.dev/badge/Solid-000000.svg?mode=light&amp;logo=solid" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Astro-000000.svg?logo=astro" /><img alt="badge" src="https://shieldcn.dev/badge/Astro-000000.svg?mode=light&amp;logo=astro" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/React_Native-000000.svg?logo=expo" /><img alt="badge" src="https://shieldcn.dev/badge/React_Native-000000.svg?mode=light&amp;logo=expo" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Tauri-000000.svg?logo=tauri" /><img alt="badge" src="https://shieldcn.dev/badge/Tauri-000000.svg?mode=light&amp;logo=tauri" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Capacitor-000000.svg?logo=capacitor" /><img alt="badge" src="https://shieldcn.dev/badge/Capacitor-000000.svg?mode=light&amp;logo=capacitor" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/PWA-000000.svg?logo=pwa" /><img alt="badge" src="https://shieldcn.dev/badge/PWA-000000.svg?mode=light&amp;logo=pwa" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/WebAssembly-000000.svg?logo=webassembly" /><img alt="badge" src="https://shieldcn.dev/badge/WebAssembly-000000.svg?mode=light&amp;logo=webassembly" /></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Neovim-000000.svg?logo=neovim" /><img alt="badge" src="https://shieldcn.dev/badge/Neovim-000000.svg?mode=light&amp;logo=neovim" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Nix-000000.svg?logo=nixos" /><img alt="badge" src="https://shieldcn.dev/badge/Nix-000000.svg?mode=light&amp;logo=nixos" /></picture>
 
 ## Stats
 ![](https://streak-stats.demolab.com/?user=scapy47&theme=transparent&hide_border=true)
