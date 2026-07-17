@@ -28,6 +28,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/PWA-000000.svg?logo=pwa" /><img alt="badge" src="https://shieldcn.dev/badge/PWA-000000.svg?mode=light&amp;logo=pwa" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/WebAssembly-000000.svg?logo=webassembly" /><img alt="badge" src="https://shieldcn.dev/badge/WebAssembly-000000.svg?mode=light&amp;logo=webassembly" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Decker-000000.svg?logo=docker" /><img alt="badge" src="https://shieldcn.dev/badge/Decker-000000.svg?mode=light&amp;logo=docker" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Hono-000000.svg?logo=hono" /><img alt="badge" src="https://shieldcn.dev/badge/Hono-000000.svg?mode=light&amp;logo=hono" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Vite-000000.svg?logo=vite" /><img alt="badge" src="https://shieldcn.dev/badge/Vite-000000.svg?mode=light&amp;logo=vite" /></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Neovim-000000.svg?logo=neovim" /><img alt="badge" src="https://shieldcn.dev/badge/Neovim-000000.svg?mode=light&amp;logo=neovim" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Nix-000000.svg?logo=nixos" /><img alt="badge" src="https://shieldcn.dev/badge/Nix-000000.svg?mode=light&amp;logo=nixos" /></picture>
