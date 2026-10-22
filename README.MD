@@ -43,4 +43,4 @@
 </p>
 
 ![](https://streak-stats.demolab.com/?user=scapy47&theme=transparent&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=scapy47&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=100)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=scapy47&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=5000)
